@@ -115,4 +115,4 @@ Elm File
     PsiWhiteSpace(' ')
     ElmExpression(EXPRESSION)
       ElmListOfOperands(LIST_OF_OPERANDS)
-        PsiElement(STRING_LITERAL)('"""\ns = ""\ns = "s"\n"\"""\n"""')
+        PsiElement(STRING_LITERAL)('"""\ns = ""\ns = \"s\"\n"""')
